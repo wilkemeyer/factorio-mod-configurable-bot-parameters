@@ -1,0 +1,14 @@
+{
+  "name": "configurable-bot-parameters",
+  "version": "1.0.0",
+  "title": "Configurable Bot Speed & Inventory Size",
+  "author": "Yezirael",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "? space-exploration",
+    "? boblogistics",
+    "? Krastorio2"
+  ],
+  "description": "This mod adds a config options to increase or decrease the bot speed as well as inventory size of construction and/or logistic bots. Don't forget to change the settings! Based on the mod 'Configurable Bot Speed' from Lappro and 'Bot Inventories' from Ondra4260."
+}
